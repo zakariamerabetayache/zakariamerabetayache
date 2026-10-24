@@ -1,16 +1,77 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Zakaria 👋</h1>
+<h3 align="center">Full-Stack Web Developer · React · Laravel · Node.js</h3>
 
-<!--
-**zakariamerabetayache/zakariamerabetayache** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Building clean, reliable web applications from database to user interface.<br/>
+  Open to remote internships and junior developer roles.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🌍 Based in Skikda, Algeria, and available for remote work
+- 💼 Nearly 2 years of freelance experience building web applications for real clients
+- 🎓 Master's degree in Electronics, specialized in Embedded Systems. This gives me a strong engineering mindset and an understanding of how software meets hardware
+- 🔭 Currently focused on improving my back-end architecture skills and building polished portfolio projects
+- 🇩🇪 Currently learning German
+- 📫 Reach me at: **[your.email@example.com]**
+
+## 🛠️ Tech Stack
+
+**Front-end**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Back-end**
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**Project Name**](link) | One sentence on what it does and the problem it solves | React, Node.js, PostgreSQL |
+| [**Project Name**](link) | One sentence on what it does and the problem it solves | Laravel, MySQL |
+| [**Project Name**](link) | One sentence on what it does and the problem it solves | TypeScript, Prisma |
+
+## 🎯 What I Offer
+
+- Full-stack development: REST APIs, authentication, databases, and responsive UIs
+- Clean, maintainable code with a focus on real-world usability
+- Reliable communication and delivery, built through freelance work with clients
+- Fast learning and adaptability, from embedded systems to modern web development
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&theme=transparent" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-github-username]&layout=compact&theme=transparent" height="160" />
+</p>
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="[LinkedIn URL]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:[your.email@example.com]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="[Portfolio URL]"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+<p align="center"><i>Open to remote internships and junior developer opportunities. Let's build something great together.</i></p>
