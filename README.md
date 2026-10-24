@@ -78,7 +78,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zakariamerabetayache&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakariamerabetayache&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
