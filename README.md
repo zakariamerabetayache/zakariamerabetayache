@@ -6,6 +6,13 @@
   Open to remote internships and junior developer roles.
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/zakaria-merabet-ayache/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://zakaria-merabet-ayache.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:zakariamerabetayache@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/213666928006"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
@@ -14,8 +21,10 @@
 - 💼 Nearly 2 years of freelance experience building web applications for real clients
 - 🎓 Master's degree in Electronics, specialized in Embedded Systems. This gives me a strong engineering mindset and an understanding of how software meets hardware
 - 🔭 Currently focused on improving my back-end architecture skills and building polished portfolio projects
-- 🇩🇪 Currently learning German
-- 📫 Reach me at: **[your.email@example.com]**
+- 🛠️ Strong focus on code maintainability, clean architecture, and automated quality workflows (ESLint, Knip)
+- 📫 Reach me at: **zakariamerabetayache@gmail.com** or on **WhatsApp: +213666928006**
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -39,39 +48,49 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Tools**
+**Tools & Quality**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+
+---
 
 ## 🚀 Featured Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**Project Name**](link) | One sentence on what it does and the problem it solves | React, Node.js, PostgreSQL |
-| [**Project Name**](link) | One sentence on what it does and the problem it solves | Laravel, MySQL |
-| [**Project Name**](link) | One sentence on what it does and the problem it solves | TypeScript, Prisma |
+| [**On-Demand Registration System**](https://github.com/zakariamerabetayache/On-demand-Registration-System) | A configurable registration system built for organizations with multi-step workflows, role handling, and automated code maintenance scripts (Knip, dead-code detector, console cleaner). | React, Node.js, Tailwind CSS |
+| [**Association Management System**](https://zakaria-merabet-ayache.vercel.app/) | Centralized multi-role web platform designed for Algerian associations to manage members, local centers, and administrative operations across Wilayas and Communes. | Laravel, MySQL, Blade / React |
+| [**Track-Life**](https://github.com/zakariamerabetayache/track-life) | Productivity and tracking application featuring robust REST API endpoints, full CRUD reminder system, and database schema management. | Next.js, Express.js, PostgreSQL, Prisma |
+
+---
 
 ## 🎯 What I Offer
 
 - Full-stack development: REST APIs, authentication, databases, and responsive UIs
-- Clean, maintainable code with a focus on real-world usability
+- Clean, maintainable code with a focus on real-world usability and automated quality checks
 - Reliable communication and delivery, built through freelance work with clients
 - Fast learning and adaptability, from embedded systems to modern web development
+
+---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&theme=transparent" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-github-username]&layout=compact&theme=transparent" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zakariamerabetayache&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakariamerabetayache&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
+
+---
 
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="[LinkedIn URL]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:[your.email@example.com]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="[Portfolio URL]"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/zakaria-merabet-ayache/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:zakariamerabetayache@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/213666928006"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://zakaria-merabet-ayache.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>Open to remote internships and junior developer opportunities. Let's build something great together.</i></p>
