@@ -60,8 +60,8 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**On-Demand Registration System**](https://github.com/zakariamerabetayache/On-demand-Registration-System) | A configurable registration system built for organizations with multi-step workflows, role handling, and automated code maintenance scripts (Knip, dead-code detector, console cleaner). | React, Node.js, Tailwind CSS |
-| [**Association Management System**](https://zakaria-merabet-ayache.vercel.app/) | Centralized multi-role web platform designed for Algerian associations to manage members, local centers, and administrative operations across Wilayas and Communes. | Laravel, MySQL, Blade / React |
+| [**On-Demand Registration System**](https://github.com/zakariamerabetayache/On-demand-Registration-System) | A configurable registration system built for organizations with multi-step workflows, role handling, and automated code maintenance scripts (Knip, dead-code detector, console cleaner). | React, Laravel , MySQL |
+| [**Association Management System**](https://zakaria-merabet-ayache.vercel.app/) | Centralized multi-role web platform designed for Algerian associations to manage members, local centers, and administrative operations across Wilayas and Communes. | Laravel, MySQL, React |
 | [**Track-Life**](https://github.com/zakariamerabetayache/track-life) | Productivity and tracking application featuring robust REST API endpoints, full CRUD reminder system, and database schema management. | Next.js, Express.js, PostgreSQL, Prisma |
 
 ---
